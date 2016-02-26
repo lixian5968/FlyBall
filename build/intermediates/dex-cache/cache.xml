@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_studio_game\FlyBallByLx\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\android_studio_game\FlyBallByLx\app\build\intermediates\pre-dexed\debug\classes-2f5939ebbe625036774ec5dead8aa9dbac11740a.jar" />
+    </item>
+    <item
+        jar="D:\android_studio_game\FlyBallByLx\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\android_studio_game\FlyBallByLx\app\build\intermediates\pre-dexed\debug\classes-1fa9228c50bdd7153437f9f101f15946eba77bbc.jar" />
+    </item>
+    <item
+        jar="D:\android_studio_game\FlyBallByLx\app\libs\GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6262c554ef5744538d526465aa73704810705734">
+        <dex dex="D:\android_studio_game\FlyBallByLx\app\build\intermediates\pre-dexed\debug\GoogleAdMobAdsSdk-6.4.1-b8cdc50e2a795ff4b98f778c11cd0fe88bdcf7cb.jar" />
+    </item>
+    <item
+        jar="D:\android_studio_game\FlyBallByLx\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\android_studio_game\FlyBallByLx\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-c3b9afc4ff966b972295ff871639c46674fe5bdf.jar" />
+    </item>
+    <item
+        jar="E:\eclipseIDE\adt-bundle-windows-x86_64-20140321\sdk_studio\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\android_studio_game\FlyBallByLx\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-521b6c5194069adeda7e6b8955d263a3c0f16d78.jar" />
+    </item>
+
+</items>
